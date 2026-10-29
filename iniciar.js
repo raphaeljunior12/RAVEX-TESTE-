@@ -1,4 +1,4 @@
-const VERSAO = '1.0.0';
+const VERSAO = '1.1.0';
 
 console.log('╔══════════════════════════════════════╗');
 console.log('║       🧪 RAVEX-TESTE-HOST V1        ║');
