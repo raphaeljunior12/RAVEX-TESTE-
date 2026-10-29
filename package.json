@@ -1,0 +1,15 @@
+{
+  "name": "ravex-teste-host",
+  "version": "1.0.0",
+  "description": "Bot de teste para validar atualizações do RAVEX-HOST",
+  "main": "iniciar.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node iniciar.js"
+  },
+  "author": "Raphael Júnior",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
